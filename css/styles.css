@@ -4032,7 +4032,7 @@ textarea.form-control-lg {
 
 .navbar {
   position: relative;
-  display: flex;
+ 
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
@@ -4088,7 +4088,7 @@ textarea.form-control-lg {
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
-  line-height: 1;
+  line-height: 2;
   background-color: transparent;
   border: 1px solid;
   border-color: #fff;
